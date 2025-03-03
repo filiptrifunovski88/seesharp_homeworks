@@ -1,0 +1,14 @@
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\C#_BASIC\homework1\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll
