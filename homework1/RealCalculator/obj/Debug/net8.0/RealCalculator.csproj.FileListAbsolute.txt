@@ -1,0 +1,14 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\bin\Debug\net8.0\RealCalculator.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\bin\Debug\net8.0\RealCalculator.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\bin\Debug\net8.0\RealCalculator.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\bin\Debug\net8.0\RealCalculator.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\bin\Debug\net8.0\RealCalculator.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\refint\RealCalculator.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\RealCalculator.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework01\RealCalculator\obj\Debug\net8.0\ref\RealCalculator.dll
