@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            string[] studentsG1 = new string[6];
+            string[] studentsG1 = new string[5];
             string[] studentsG2 = new string[5];
             
             for (int i = 0; i < studentsG1.Length; i++)
