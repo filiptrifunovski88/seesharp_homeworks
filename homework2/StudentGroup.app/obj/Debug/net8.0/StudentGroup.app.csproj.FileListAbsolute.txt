@@ -1,0 +1,14 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\bin\Debug\net8.0\StudentGroup.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\bin\Debug\net8.0\StudentGroup.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\bin\Debug\net8.0\StudentGroup.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\bin\Debug\net8.0\StudentGroup.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\bin\Debug\net8.0\StudentGroup.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\refint\StudentGroup.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\StudentGroup.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\StudentGroup.app\obj\Debug\net8.0\ref\StudentGroup.app.dll

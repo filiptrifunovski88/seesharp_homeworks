@@ -1,0 +1,14 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\bin\Debug\net8.0\sumOfEven.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\bin\Debug\net8.0\sumOfEven.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\bin\Debug\net8.0\sumOfEven.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\bin\Debug\net8.0\sumOfEven.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\bin\Debug\net8.0\sumOfEven.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\refint\sumOfEven.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\sumOfEven.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework2\sumOfEven.app\obj\Debug\net8.0\ref\sumOfEven.app.dll
