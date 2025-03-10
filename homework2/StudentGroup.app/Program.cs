@@ -10,7 +10,7 @@
             
             for (int i = 0; i < studentsG1.Length; i++)
             {
-                Console.Write("Enter name number " + (i + 1) + " for the FIRST array: ");
+                Console.Write("Enter name numbers " + (i + 1) + " for the FIRST array: ");
                 studentsG1[i] = Console.ReadLine();
             }
 

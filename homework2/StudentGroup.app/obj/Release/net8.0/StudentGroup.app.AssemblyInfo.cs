@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentGroup.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9dcee0ceab2ae9947fcd0a923e72972bd67695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+226d46801b8d5e6bcbf83f1a77289646d01eb410")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentGroup.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentGroup.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
