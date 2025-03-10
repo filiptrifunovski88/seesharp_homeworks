@@ -24,7 +24,7 @@
             bool isValidInput = false;
             while (!isValidInput)
             {
-                Console.Write("Enter number between 1 and 2ssdxxxz: ");
+                Console.Write("Enter number between 1 and 2: ");
                 input = Console.ReadLine();
                 if (input == "1" || input == "2")
                 {
