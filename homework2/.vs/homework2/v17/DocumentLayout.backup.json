@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\homework2\\",
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\seesharp_homeworks\\homework2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentGroup.app\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs",
               "RelativeDocumentMoniker": "StudentGroup.app\\Program.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\GITHUB\\seesharp_homeworks\\seesharp_homeworks\\homework2\\StudentGroup.app\\Program.cs",
               "RelativeToolTip": "StudentGroup.app\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T02:09:08.637Z",
               "EditorCaption": ""
