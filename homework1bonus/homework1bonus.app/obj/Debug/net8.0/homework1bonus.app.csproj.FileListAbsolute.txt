@@ -1,0 +1,15 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\bin\Debug\net8.0\homework1bonus.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\bin\Debug\net8.0\homework1bonus.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\bin\Debug\net8.0\homework1bonus.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\bin\Debug\net8.0\homework1bonus.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\bin\Debug\net8.0\homework1bonus.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.sourcelink.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\refint\homework1bonus.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\homework1bonus.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework1bonus\homework1bonus.app\obj\Debug\net8.0\ref\homework1bonus.app.dll
