@@ -1,0 +1,15 @@
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\bin\Debug\net8.0\exercises.app.exe
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\bin\Debug\net8.0\exercises.app.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\bin\Debug\net8.0\exercises.app.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\bin\Debug\net8.0\exercises.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\bin\Debug\net8.0\exercises.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.sourcelink.json
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\refint\exercises.app.dll
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\exercises.app.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\seesharp_homeworks\homework4\exercises.app\obj\Debug\net8.0\ref\exercises.app.dll
